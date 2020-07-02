@@ -1,0 +1,12 @@
+
+135,Chuot,Con,30,0
+462,Vi,Cai,80,0
+665,Sach,Quyen,9,0
+699,Keo,Cai,90,0
+789,But,Cai,140,1
+827,Bua,Cai,45,0
+963,Dinh,Lo,60,1
+458,Son,Thung,60,0
+456,Quan,Cai,101,1
+321,Balo,Cai,80,0
+123,Bua,Cai,95,1
